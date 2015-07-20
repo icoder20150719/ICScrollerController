@@ -1,2 +1,3 @@
 # icoder
-icoder 成员qq：1，1209996080
+icoder 简单实现京东推拉View的结构
+采用KVO监听ScrollView的contentOffset
